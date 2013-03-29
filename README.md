@@ -1,6 +1,9 @@
 angular-local-storage
 =====================
 
+I'm going to add the option to store objects by using JSON.parse and JSON.stringify in this service.
+==
+
 An Angular module that gives you access to the browsers local storage
 
 Remember to set your app name (settings.appPrefix) in the settings at the beginning of localStorageModule.js.
